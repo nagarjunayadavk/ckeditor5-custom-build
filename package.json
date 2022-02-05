@@ -2,7 +2,7 @@
   "name": "ckeditor5-custom-build",
   "author": "Nagarjuna Yadav K[nagarjunayadavk@gmail.com]",
   "description": "Adding plugin to CKEditor 5 - custom build",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "license": "SEE LICENSE IN LICENSE.md",
   "private": true,
   "devDependencies": {
